@@ -14,7 +14,7 @@ import static org.hamcrest.Matchers.hasKey;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment= SpringBootTest.WebEnvironment.DEFINED_PORT, classes = EasyNotesApplication.class)
-public class NotControllerTest extends EasyNotesApplicationTests {
+public class NoteControllerTest extends EasyNotesApplicationTests {
     @Test
     public void shouldReturnStatusCode404WhenIdNotExist(){
         given()
