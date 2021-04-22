@@ -1,2 +1,2 @@
-# easy-notes
-Building a Restful CRUD API and Testing using Spring Boot, MySQL, JPA, Hibernate and REST Assured
+# Description
+This is an example of a RESTful API with unit tests using Spring Boot, MySQL, JPA, Hibernate and REST Assured.
